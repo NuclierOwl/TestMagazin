@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "D:\\TovarV2\\TovarV2.csproj": {}
+    "C:\\Users\\PC\\source\\repos\\Magazin_Testiky\\TovarV2.csproj": {}
   },
   "projects": {
-    "D:\\TovarV2\\TovarV2.csproj": {
+    "C:\\Users\\PC\\source\\repos\\Magazin_Testiky\\TovarV2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\TovarV2\\TovarV2.csproj",
+        "projectUniqueName": "C:\\Users\\PC\\source\\repos\\Magazin_Testiky\\TovarV2.csproj",
         "projectName": "TovarV2",
-        "projectPath": "D:\\TovarV2\\TovarV2.csproj",
-        "packagesPath": "C:\\Users\\prdb\\.nuget\\packages\\",
-        "outputPath": "D:\\TovarV2\\obj\\",
+        "projectPath": "C:\\Users\\PC\\source\\repos\\Magazin_Testiky\\TovarV2.csproj",
+        "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\PC\\source\\repos\\Magazin_Testiky\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\prdb\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -39,7 +43,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net7.0": {
@@ -64,6 +69,24 @@
             "Avalonia.Themes.Fluent": {
               "target": "Package",
               "version": "[11.0.2, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.3.0, )"
+            },
+            "Microsoft.TestPlatform.TestHost": {
+              "target": "Package",
+              "version": "[17.3.0, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.3, )"
+            },
+            "NUnit.Analyzers": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.6.1, )"
             }
           },
           "imports": [
@@ -82,7 +105,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -26,6 +26,7 @@
 				Text="Введите код своей роли">
 			</TextBlock>
 			<TextBox
+				x:FieldModifier="public"
 				TextAlignment="Left"
 				Name="CodeInput"
 				Watermark="Enter code">

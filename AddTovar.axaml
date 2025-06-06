@@ -14,14 +14,17 @@ Orientation="Vertical">
 		Text="Заполните информацию о товаре">
 		</TextBlock>
 	<TextBox
+		x:FieldModifier="internal"
 		Name="nameTov"
 		Watermark="Наименование">
 	</TextBox>
 	<TextBox
+		x:FieldModifier="internal"
 		Name="priceTov"
 		Watermark="Цена">
 		</TextBox>
 	<TextBox
+		x:FieldModifier="internal"
 		Name="quantityTov"
 		Watermark="Количество">
 	</TextBox>

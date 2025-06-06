@@ -35,7 +35,7 @@ public partial class EditTovar : Window
 
     }
 
-    private void EditOk_Click(object? sender, Avalonia.Interactivity.RoutedEventArgs e)
+    public void EditOk_Click(object? sender, Avalonia.Interactivity.RoutedEventArgs e)
     {
         ListPr.ListProd[ListPr.productForEdit].nameProd = nameTovar.Text;
         ListPr.ListProd[ListPr.productForEdit].quantityProd = Convert.ToInt32(quantityTovar.Text);

@@ -6,43 +6,43 @@
       "AbsoluteMoniker": "D:0:0:{CB0EDB8D-AF7F-6C53-DF46-AE94C6EAA983}|..\\Tests__Magazin\\Tests__Magazin\\Tests__Magazin.csproj|c:\\users\\pc\\source\\repos\\tests__magazin\\tests__magazin\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EF8E670B-1E7E-445E-BA6D-1CCDE5A07EC4}|TovarV2.csproj|c:\\users\\pc\\source\\repos\\magazin_testiky\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EF8E670B-1E7E-445E-BA6D-1CCDE5A07EC4}|TovarV2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EF8E670B-1E7E-445E-BA6D-1CCDE5A07EC4}|TovarV2.csproj|c:\\users\\pc\\source\\repos\\magazin_testiky\\mainwindow.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
-      "RelativeMoniker": "D:0:0:{EF8E670B-1E7E-445E-BA6D-1CCDE5A07EC4}|TovarV2.csproj|solutionrelative:mainwindow.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
+      "AbsoluteMoniker": "D:0:0:{CB0EDB8D-AF7F-6C53-DF46-AE94C6EAA983}|..\\Tests__Magazin\\Tests__Magazin\\Tests__Magazin.csproj|c:\\users\\pc\\source\\repos\\tests__magazin\\tests__magazin\\tests__magazin.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EF8E670B-1E7E-445E-BA6D-1CCDE5A07EC4}|TovarV2.csproj|c:\\users\\pc\\source\\repos\\magazin_testiky\\edittovar.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EF8E670B-1E7E-445E-BA6D-1CCDE5A07EC4}|TovarV2.csproj|solutionrelative:edittovar.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EF8E670B-1E7E-445E-BA6D-1CCDE5A07EC4}|TovarV2.csproj|c:\\users\\pc\\source\\repos\\magazin_testiky\\mainwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EF8E670B-1E7E-445E-BA6D-1CCDE5A07EC4}|TovarV2.csproj|solutionrelative:mainwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EF8E670B-1E7E-445E-BA6D-1CCDE5A07EC4}|TovarV2.csproj|c:\\users\\pc\\source\\repos\\magazin_testiky\\edittovar.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "RelativeMoniker": "D:0:0:{EF8E670B-1E7E-445E-BA6D-1CCDE5A07EC4}|TovarV2.csproj|solutionrelative:edittovar.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EF8E670B-1E7E-445E-BA6D-1CCDE5A07EC4}|TovarV2.csproj|c:\\users\\pc\\source\\repos\\magazin_testiky\\productedit.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EF8E670B-1E7E-445E-BA6D-1CCDE5A07EC4}|TovarV2.csproj|solutionrelative:productedit.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EF8E670B-1E7E-445E-BA6D-1CCDE5A07EC4}|TovarV2.csproj|c:\\users\\pc\\source\\repos\\magazin_testiky\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF8E670B-1E7E-445E-BA6D-1CCDE5A07EC4}|TovarV2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EF8E670B-1E7E-445E-BA6D-1CCDE5A07EC4}|TovarV2.csproj|c:\\users\\pc\\source\\repos\\magazin_testiky\\korzina.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EF8E670B-1E7E-445E-BA6D-1CCDE5A07EC4}|TovarV2.csproj|solutionrelative:korzina.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EF8E670B-1E7E-445E-BA6D-1CCDE5A07EC4}|TovarV2.csproj|c:\\users\\pc\\source\\repos\\magazin_testiky\\tovarv2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EF8E670B-1E7E-445E-BA6D-1CCDE5A07EC4}|TovarV2.csproj|solutionrelative:tovarv2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EF8E670B-1E7E-445E-BA6D-1CCDE5A07EC4}|TovarV2.csproj|c:\\users\\pc\\source\\repos\\magazin_testiky\\app.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EF8E670B-1E7E-445E-BA6D-1CCDE5A07EC4}|TovarV2.csproj|solutionrelative:app.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CB0EDB8D-AF7F-6C53-DF46-AE94C6EAA983}|..\\Tests__Magazin\\Tests__Magazin\\Tests__Magazin.csproj|c:\\users\\pc\\source\\repos\\tests__magazin\\tests__magazin\\tests__magazin.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{EF8E670B-1E7E-445E-BA6D-1CCDE5A07EC4}|TovarV2.csproj|c:\\users\\pc\\source\\repos\\magazin_testiky\\korzina.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF8E670B-1E7E-445E-BA6D-1CCDE5A07EC4}|TovarV2.csproj|solutionrelative:korzina.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EF8E670B-1E7E-445E-BA6D-1CCDE5A07EC4}|TovarV2.csproj|c:\\users\\pc\\source\\repos\\magazin_testiky\\edittovar.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
-      "RelativeMoniker": "D:0:0:{EF8E670B-1E7E-445E-BA6D-1CCDE5A07EC4}|TovarV2.csproj|solutionrelative:edittovar.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
+      "AbsoluteMoniker": "D:0:0:{EF8E670B-1E7E-445E-BA6D-1CCDE5A07EC4}|TovarV2.csproj|c:\\users\\pc\\source\\repos\\magazin_testiky\\productedit.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF8E670B-1E7E-445E-BA6D-1CCDE5A07EC4}|TovarV2.csproj|solutionrelative:productedit.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EF8E670B-1E7E-445E-BA6D-1CCDE5A07EC4}|TovarV2.csproj|c:\\users\\pc\\source\\repos\\magazin_testiky\\tovarv2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{EF8E670B-1E7E-445E-BA6D-1CCDE5A07EC4}|TovarV2.csproj|solutionrelative:tovarv2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{EF8E670B-1E7E-445E-BA6D-1CCDE5A07EC4}|TovarV2.csproj|c:\\users\\pc\\source\\repos\\magazin_testiky\\mainwindow.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "RelativeMoniker": "D:0:0:{EF8E670B-1E7E-445E-BA6D-1CCDE5A07EC4}|TovarV2.csproj|solutionrelative:mainwindow.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF8E670B-1E7E-445E-BA6D-1CCDE5A07EC4}|TovarV2.csproj|c:\\users\\pc\\source\\repos\\magazin_testiky\\mainwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF8E670B-1E7E-445E-BA6D-1CCDE5A07EC4}|TovarV2.csproj|solutionrelative:mainwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EF8E670B-1E7E-445E-BA6D-1CCDE5A07EC4}|TovarV2.csproj|c:\\users\\pc\\source\\repos\\magazin_testiky\\addtovar.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
@@ -80,13 +80,13 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Korzina.axaml.cs",
               "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Magazin_Testiky\\Korzina.axaml.cs",
               "RelativeDocumentMoniker": "Korzina.axaml.cs",
               "ToolTip": "C:\\Users\\PC\\source\\repos\\Magazin_Testiky\\Korzina.axaml.cs",
               "RelativeToolTip": "Korzina.axaml.cs",
-              "ViewState": "AgIAABEBAAAAAAAAAAAnwB8BAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAABEBAAAAAAAAAADgvx8BAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-03T12:08:39.581Z",
               "IsPinned": true,
@@ -95,19 +95,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Magazin_Testiky\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\PC\\source\\repos\\Magazin_Testiky\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-15T11:33:50.527Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
               "Title": "Tests__Magazin",
               "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Tests__Magazin\\Tests__Magazin\\Tests__Magazin.csproj",
               "RelativeDocumentMoniker": "..\\Tests__Magazin\\Tests__Magazin\\Tests__Magazin.csproj",
@@ -120,7 +107,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 5,
               "Title": "TovarV2.csproj",
               "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Magazin_Testiky\\TovarV2.csproj",
               "RelativeDocumentMoniker": "TovarV2.csproj",
@@ -133,33 +120,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Magazin_Testiky\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Magazin_Testiky\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T10:44:29.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "App.axaml.cs",
               "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Magazin_Testiky\\App.axaml.cs",
               "RelativeDocumentMoniker": "App.axaml.cs",
               "ToolTip": "C:\\Users\\PC\\source\\repos\\Magazin_Testiky\\App.axaml.cs",
               "RelativeToolTip": "App.axaml.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAAABEAAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-15T10:29:24.285Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 10,
               "Title": "MainWindow.axaml.cs",
               "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Magazin_Testiky\\MainWindow.axaml.cs",
               "RelativeDocumentMoniker": "MainWindow.axaml.cs",
               "ToolTip": "C:\\Users\\PC\\source\\repos\\Magazin_Testiky\\MainWindow.axaml.cs",
               "RelativeToolTip": "MainWindow.axaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-15T07:04:19.426Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 9,
               "Title": "MainWindow.axaml",
               "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Magazin_Testiky\\MainWindow.axaml",
               "RelativeDocumentMoniker": "MainWindow.axaml",
@@ -177,7 +177,7 @@
               "RelativeDocumentMoniker": "..\\Tests__Magazin\\Tests__Magazin\\UnitTest1.cs",
               "ToolTip": "C:\\Users\\PC\\source\\repos\\Tests__Magazin\\Tests__Magazin\\UnitTest1.cs",
               "RelativeToolTip": "..\\Tests__Magazin\\Tests__Magazin\\UnitTest1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA5wBIAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-15T06:49:17.686Z",
               "EditorCaption": ""
@@ -196,7 +196,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 3,
               "Title": "EditTovar.axaml",
               "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Magazin_Testiky\\EditTovar.axaml",
               "RelativeDocumentMoniker": "EditTovar.axaml",
@@ -208,13 +208,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "EditTovar.axaml.cs",
               "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Magazin_Testiky\\EditTovar.axaml.cs",
               "RelativeDocumentMoniker": "EditTovar.axaml.cs",
               "ToolTip": "C:\\Users\\PC\\source\\repos\\Magazin_Testiky\\EditTovar.axaml.cs",
               "RelativeToolTip": "EditTovar.axaml.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAnwCIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-12T12:03:10.911Z",
               "EditorCaption": ""
@@ -258,13 +258,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "Productedit.axaml.cs",
               "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Magazin_Testiky\\Productedit.axaml.cs",
               "RelativeDocumentMoniker": "Productedit.axaml.cs",
               "ToolTip": "C:\\Users\\PC\\source\\repos\\Magazin_Testiky\\Productedit.axaml.cs",
               "RelativeToolTip": "Productedit.axaml.cs",
-              "ViewState": "AgIAAHIBAAAAAAAAAAAnwIABAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAHIBAAAAAAAAAADgv4ABAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-02T08:07:18.531Z",
               "EditorCaption": ""
@@ -290,7 +290,7 @@
               "RelativeDocumentMoniker": "Product.cs",
               "ToolTip": "C:\\Users\\PC\\source\\repos\\Magazin_Testiky\\Product.cs",
               "RelativeToolTip": "Product.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAA6wBsAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA8wBsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-03T12:09:58.778Z",
               "EditorCaption": ""

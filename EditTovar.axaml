@@ -20,14 +20,17 @@
 					Grid.Row="1"
 					Grid.Column="0">
 					<TextBox
+						x:FieldModifier="public"
 						Watermark="Наименование"
 							Name="nameTovar">
 							</TextBox>
-						<TextBox
+				<TextBox
+					x:FieldModifier="public"
 							Watermark="Цена"
 								Name="priceTovar">
-						</TextBox>	
-					<TextBox
+						</TextBox>
+				<TextBox
+					x:FieldModifier="public"
 						Watermark="Количество"
 							Name="quantityTovar">
 					</TextBox>

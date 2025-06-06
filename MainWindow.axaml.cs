@@ -9,7 +9,9 @@ namespace TovarV2
         public List<Product> products = new List<Product>();
 
         public const string codeAdm = "0", codeUs = "1";
-       
+
+        public TextBox GetCodeInput() => this.CodeInput;
+
         public MainWindow()
         {
            
